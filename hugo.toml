@@ -1,5 +1,5 @@
 title = "bishalbagale"
-baseURL = 'https://bishalbagale.github.io/bishalbagale.xyz/'
+baseURL = ''
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
