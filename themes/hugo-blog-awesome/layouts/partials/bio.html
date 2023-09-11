@@ -1,0 +1,27 @@
+{{ $avatar_img := .Site.Params.author.avatar }}
+{{ $avatar_img_alt := .Site.Params.author.name }}
+{{ $image := resources.Get $avatar_img }}
+
+{{ $quote := resources.Get "quotes.json" }}
+
+
+<div class="author">
+    {{ with $image }}
+   {{ $image := $image.Fill "757x757 webp" }} 
+
+
+   
+    <img class="author-avatar" src="{{ $image.RelPermalink }}" alt="{{ $avatar_img_alt }}" width="{{ .Width }}"
+        height="{{ .Height }}" />
+
+
+    {{ end }}
+    <h3 class="author-name">{{ .Site.Params.author.intro }}</h3>
+    <p class="author-bio" style="margin-top: 6px;">{{ .Site.Params.author.description }}</p>
+   
+    <!-- <script>
+        const getBio = document.getElementsByClassName("author-bio")[0]; // Use [0] to select the first element with the class "author-bio"
+        getBio.innerText = "Hello There!"; // Use innerText, not innertext
+        console.log("{{ $quote.RelPermalink }}");
+     </script> -->
+</div>

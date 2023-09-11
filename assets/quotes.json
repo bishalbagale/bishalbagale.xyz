@@ -1,0 +1,681 @@
+{
+    "quotes": [
+      {
+        "quote": "Welcome to the party, pal!",
+        "source": "Die Hard (1988)"
+      },
+      {
+        "quote": "Welcome to Earth.",
+        "source": "Independence Day (1996)"
+      },
+      {
+        "quote": "Welcome to the jungle!",
+        "source": "Jumanji (1995)"
+      },
+      {
+        "quote": "Welcome to my nightmare!",
+        "source": "A Nightmare on Elm Street (1984)"
+      },
+      {
+        "quote": "Welcome to the 60s!",
+        "source": "Hairspray (2007)"
+      },
+      {
+        "quote": "Welcome to the Dollhouse.",
+        "source": "Welcome to the Dollhouse (1995)"
+      },
+      {
+        "quote": "Welcome to the family, Fredo.",
+        "source": "The Godfather (1972)"
+      },
+      {
+        "quote": "Welcome to Sherwood!",
+        "source": "Robin Hood: Men in Tights (1993)"
+      },
+      {
+        "quote": "Welcome to the land of the free.",
+        "source": "The Pursuit of Happyness (2006)"
+      },
+      {
+        "quote": "Welcome to the real world.",
+        "source": "The Matrix (1999)"
+      },
+      {
+        "quote": "Welcome to my humble abode.",
+        "source": "The Hateful Eight (2015)"
+      },
+      {
+        "quote": "Welcome to the island of misfit toys.",
+        "source": "Rudolph the Red-Nosed Reindeer (1964)"
+      },
+      {
+        "quote": "Welcome to the human race.",
+        "source": "The Day the Earth Stood Still (1951)"
+      },
+      {
+        "quote": "Welcome to the party, Richter!",
+        "source": "Total Recall (1990)"
+      },
+      {
+        "quote": "Welcome to the revolution!",
+        "source": "V for Vendetta (2005)"
+      },
+      {
+        "quote": "Welcome to our little club.",
+        "source": "Fight Club (1999)"
+      },
+      {
+        "quote": "Welcome to Zombieland.",
+        "source": "Zombieland (2009)"
+      },
+      {
+        "quote": "Welcome to the Hotel California.",
+        "source": "The Big Lebowski (1998)"
+      },
+      {
+        "quote": "Welcome to the dark side.",
+        "source": "Star Wars: Episode IV - A New Hope (1977)"
+      },
+      {
+        "quote": "Welcome to the land of make-believe.",
+        "source": "Mr. Rogers' Neighborhood (1968-2001)"
+      },
+      {
+        "quote": "Welcome to the neighborhood.",
+        "source": "The 'Burbs (1989)"
+      },
+      {
+        "quote": "Welcome to the circus.",
+        "source": "Batman Returns (1992)"
+      },
+      {
+        "quote": "Welcome to the nightmare, Alice!",
+        "source": "A Nightmare on Elm Street 3: Dream Warriors (1987)"
+      },
+      {
+        "quote": "Welcome to the club, buddy.",
+        "source": "Goodfellas (1990)"
+      },
+      {
+        "quote": "Welcome to the future.",
+        "source": "Back to the Future Part II (1989)"
+      },
+      {
+        "quote": "Welcome to the party, chief!",
+        "source": "Die Hard 2 (1990)"
+      },
+      {
+        "quote": "Welcome to the world, baby.",
+        "source": "Juno (2007)"
+      },
+      {
+        "quote": "Welcome to the madhouse, Batman!",
+        "source": "Batman (1989)"
+      },
+      {
+        "quote": "Welcome to the big leagues.",
+        "source": "Angels in the Outfield (1994)"
+      },
+      {
+        "quote": "Welcome to the land of the lost.",
+        "source": "Land of the Lost (2009)"
+      },
+      {
+        "quote": "Welcome to the machine.",
+        "source": "The Wall (1982)"
+      },
+      {
+        "quote": "Welcome to my nightmare, welcome to my breakdown.",
+        "source": "Wayne's World (1992)"
+      },
+      {
+        "quote": "Welcome to the revolution, number 9.",
+        "source": "Cloud Atlas (2012)"
+      },
+      {
+        "quote": "Welcome to the freak show.",
+        "source": "American Horror Story (2011-)"
+      },
+      {
+        "quote": "Welcome to the carnival of souls.",
+        "source": "Carnival of Souls (1962)"
+      },
+      {
+        "quote": "Welcome to the dollhouse, honey.",
+        "source": "The Other Woman (2014)"
+      },
+      {
+        "quote": "Welcome to the rat race.",
+        "source": "About Schmidt (2002)"
+      },
+      {
+        "quote": "Welcome to the jungle, baby!",
+        "source": "Predator (1987)"
+      },
+      {
+        "quote": "Welcome to the machine, Pink.",
+        "source": "Pink Floyd: The Wall (1982)"
+      },
+      {
+        "quote": "Welcome to the future, Mr. McFly.",
+        "source": "Back to the Future Part II (1989)"
+      },
+      {
+        "quote": "Welcome to the big time.",
+        "source": "The Untouchables (1987)"
+      },
+      {
+        "quote": "Welcome to the planet.",
+        "source": "Superman (1978)"
+      },
+      {
+        "quote": "Welcome to the revolution, Andy.",
+        "source": "The Shawshank Redemption (1994)"
+      },
+      {
+        "quote": "Welcome to the resistance.",
+        "source": "The Matrix Reloaded (2003)"
+      },
+      {
+        "quote": "Welcome to the dollhouse, Wanda.",
+        "source": "A Fish Called Wanda (1988)"
+      },
+      {
+        "quote": "Welcome to the show.",
+        "source": "The Greatest Showman (2017)"
+      },
+      {
+        "quote": "Welcome to the masquerade.",
+        "source": "The Phantom of the Opera (2004)"
+      },
+      {
+        "quote": "Welcome to the club, kid.",
+        "source": "The Natural (1984)"
+      },
+      {
+        "quote": "Welcome to the city of angels.",
+        "source": "L.A. Story (1991)"
+      },
+      {
+        "quote": "Welcome to the nightmare, Johnny.",
+        "source": "A Nightmare on Elm Street 4: The Dream Master (1988)"
+      },
+      {
+        "quote": "Welcome to the monkey house.",
+        "source": "Welcome to the Monkey House (2019)"
+      },
+      {
+        "quote": "Welcome to the future, Marty!",
+        "source": "Back to the Future (1985)"
+      },
+      {
+        "quote": "Welcome to the hotel California, sir.",
+        "source": "The Big Lebowski (1998)"
+      },
+      {
+        "quote": "Welcome to the circus, my dear.",
+        "source": "Water for Elephants (2011)"
+      },
+      {
+        "quote": "Welcome to the carnival, Jake.",
+        "source": "Something Wicked This Way Comes (1983)"
+      },
+      {
+        "quote": "Welcome to the jungle, Captain Willard.",
+        "source": "Apocalypse Now (1979)"
+      },
+      {
+        "quote": "Welcome to the big time, pal.",
+        "source": "Dick Tracy (1990)"
+      },
+      {
+        "quote": "Welcome to the human race, Roy.",
+        "source": "Close Encounters of the Third Kind (1977)"
+      },
+      {
+        "quote": "Welcome to the land of the lost, Rick.",
+        "source": "Land of the Lost (2009)"
+      },
+      {
+        "quote": "Welcome to the club, Tyler.",
+        "source": "Fight Club (1999)"
+      },
+      {
+        "quote": "We've been expecting you.",
+        "source": "Mary Poppins (1964)"
+      },
+      {
+        "quote": "Come on in, the water's fine.",
+        "source": "The Social Network (2010)"
+      },
+      {
+        "quote": "Step into my office.",
+        "source": "Elf (2003)"
+      },
+      {
+        "quote": "Make yourself at home.",
+        "source": "The Parent Trap (1998)"
+      },
+      {
+        "quote": "Glad you could make it.",
+        "source": "Casablanca (1942)"
+      },
+      {
+        "quote": "You're here! Let the festivities commence!",
+        "source": "The Princess Diaries (2001)"
+      },
+      {
+        "quote": "It's good to see you again.",
+        "source": "The Incredibles (2004)"
+      },
+      {
+        "quote": "Join us, won't you?",
+        "source": "The Addams Family (1991)"
+      },
+      {
+        "quote": "You've crossed over into the afterlife.",
+        "source": "Beetlejuice (1988)"
+      },
+      {
+        "quote": "You're just in time for dinner.",
+        "source": "Little Shop of Horrors (1986)"
+      },
+      {
+        "quote": "You finally decided to show up.",
+        "source": "The Breakfast Club (1985)"
+      },
+      {
+        "quote": "Pull up a chair.",
+        "source": "The Godfather Part II (1974)"
+      },
+      {
+        "quote": "I've been waiting for this moment.",
+        "source": "The Dark Knight Rises (2012)"
+      },
+      {
+        "quote": "You've got a reservation.",
+        "source": "Home Alone (1990)"
+      },
+      {
+        "quote": "The party's just getting started.",
+        "source": "The Great Gatsby (2013)"
+      },
+      {
+        "quote": "We've saved you a seat.",
+        "source": "Sister Act (1992)"
+      },
+      {
+        "quote": "Join the festivities!",
+        "source": "The Muppet Christmas Carol (1992)"
+      },
+      {
+        "quote": "We've been waiting for someone like you.",
+        "source": "The Lion King (1994)"
+      },
+      {
+        "quote": "We've been waiting for the right moment.",
+        "source": "Inception (2010)"
+      },
+      {
+        "quote": "Welcome to the big leagues.",
+        "source": "Angels in the Outfield (1994)"
+      },
+      {
+        "quote": "Come inside, it's warm.",
+        "source": "Frozen (2013)"
+      },
+      {
+        "quote": "Care to join us?",
+        "source": "The Nightmare Before Christmas (1993)"
+      },
+      {
+        "quote": "You're invited to the party.",
+        "source": "The Mask (1994)"
+      },
+      {
+        "quote": "We've got a surprise for you.",
+        "source": "Jurassic Park (1993)"
+      },
+      {
+        "quote": "You're part of the team now.",
+        "source": "The Avengers (2012)"
+      },
+      {
+        "quote": "Make yourself right at home.",
+        "source": "Gremlins (1984)"
+      },
+      {
+        "quote": "You've been chosen.",
+        "source": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+      },
+      {
+        "quote": "You're in good company.",
+        "source": "Toy Story (1995)"
+      },
+      {
+        "quote": "The adventure begins now.",
+        "source": "The Hobbit: An Unexpected Journey (2012)"
+      },
+      {
+        "quote": "You're in for a treat.",
+        "source": "The Santa Clause (1994)"
+      },
+      {
+        "quote": "We've been waiting for a hero.",
+        "source": "Spider-Man (2002)"
+      },
+      {
+        "quote": "Your presence is requested.",
+        "source": "The Phantom of the Opera (2004)"
+      },
+      {
+        "quote": "You've just joined the party.",
+        "source": "The Great Gatsby (2013)"
+      },
+      {
+        "quote": "Come and be our guest.",
+        "source": "Beauty and the Beast (1991)"
+      },
+      {
+        "quote": "You're part of the family now.",
+        "source": "Meet the Parents (2000)"
+      },
+      {
+        "quote": "We've been expecting you, Mr. Bond.",
+        "source": "Dr. No (1962)"
+      },
+      {
+        "quote": "You're one of us.",
+        "source": "The X-Files (1993-2002)"
+      },
+      {
+        "quote": "You're in for a wild ride.",
+        "source": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+      },
+      {
+        "quote": "You've been granted an audience.",
+        "source": "The Lion King (1994)"
+      },
+      {
+        "quote": "We've been waiting for your arrival.",
+        "source": "The Matrix (1999)"
+      },
+      {
+        "quote": "You're about to experience something extraordinary.",
+        "source": "The Prestige (2006)"
+      },
+      {
+        "quote": "You're in the right place at the right time.",
+        "source": "Back to the Future (1985)"
+      },
+      {
+        "quote": "You've come to the right neighborhood.",
+        "source": "Men in Black (1997)"
+      },
+      {
+        "quote": "You're a part of history now.",
+        "source": "Night at the Museum (2006)"
+      },
+      {
+        "quote": "You're in the inner circle.",
+        "source": "Fight Club (1999)"
+      },
+      {
+        "quote": "You're about to become a legend.",
+        "source": "The Sandlot (1993)"
+      },
+      {
+        "quote": "You're in for a mind-bending experience.",
+        "source": "The Matrix (1999)"
+      },
+      {
+        "quote": "You're part of the dream.",
+        "source": "Inception (2010)"
+      },
+      {
+        "quote": "You're about to embark on a journey.",
+        "source": "The Lord of the Rings: The Fellowship of the Ring (2001)"
+      },
+      {
+        "quote": "You're in for an out-of-this-world adventure.",
+        "source": "Guardians of the Galaxy (2014)"
+      },
+      {
+        "quote": "You're about to enter a whole new world.",
+        "source": "Aladdin (1992)"
+      },
+      {
+        "quote": "You're about to witness something extraordinary.",
+        "source": "The Prestige (2006)"
+      },
+      {
+        "quote": "You're in for a wild time.",
+        "source": "The Hangover (2009)"
+      },
+      {
+        "quote": "You're in for a surprise, my friend.",
+        "source": "The Sixth Sense (1999)"
+      },
+      {
+        "quote": "You're part of the team now, kid.",
+        "source": "The Mighty Ducks (1992)"
+      },
+      {
+        "quote": "You're in for a heartwarming experience.",
+        "source": "Forrest Gump (1994)"
+      },
+      {
+        "quote": "You're about to enter a whole new dimension.",
+        "source": "The Twilight Zone (1959-1964)"
+      },
+      {
+        "quote": "You're about to embark on a great adventure, my friend.",
+        "source": "The Lord of the Rings: The Fellowship of the Ring (2001)"
+      },
+      {
+        "quote": "You're in for a real treat, my dear.",
+        "source": "The Princess Bride (1987)"
+      },
+      {
+        "quote": "You're in for a wild ride, partner.",
+        "source": "Toy Story 2 (1999)"
+      },
+      {
+          "quote": "Welcome to the Hotel California, such a lovely place.",
+          "source": "Eagles, 'Hotel California'"
+        },
+        {
+          "quote": "Welcome to the jungle, we've got fun and games.",
+          "source": "Guns N' Roses, 'Welcome to the Jungle'"
+        },
+        {
+          "quote": "You can check out any time you like, but you can never leave.",
+          "source": "Eagles, 'Hotel California'"
+        },
+        {
+          "quote": "Welcome to my house, baby take control now.",
+          "source": "Flo Rida, 'My House'"
+        },
+        {
+          "quote": "Come on in, take a seat, relax, let's converse.",
+          "source": "Common, 'The Light'"
+        },
+        {
+          "quote": "Welcome, my son, welcome to the machine.",
+          "source": "Pink Floyd, 'Welcome to the Machine'"
+        },
+        {
+          "quote": "Welcome to the real world, it ain't all fun and games.",
+          "source": "Matchbox Twenty, 'Real World'"
+        },
+        {
+          "quote": "Welcome to the good life.",
+          "source": "Kanye West, 'Good Life'"
+        },
+        {
+          "quote": "Welcome to the show, I'll be your host tonight.",
+          "source": "Halestorm, 'Welcome to the Show'"
+        },
+        {
+          "quote": "Welcome to my world, won't you come on in?",
+          "source": "Elvis Presley, 'Welcome to My World'"
+        },
+        {
+          "quote": "Welcome to the party, come on in and disappear.",
+          "source": "Green Day, 'Welcome to Paradise'"
+        },
+        {
+          "quote": "Welcome to the land of fame excess, whoa.",
+          "source": "Lady Gaga, 'Paparazzi'"
+        },
+        {
+          "quote": "Welcome to my life, there's no turning back.",
+          "source": "Simple Plan, 'Welcome to My Life'"
+        },
+        {
+          "quote": "Welcome to my city, welcome to my home.",
+          "source": "Eminem, 'Welcome 2 Detroit'"
+        },
+        {
+          "quote": "Welcome to my world, where it's naturally evil.",
+          "source": "Eminem, 'Evil Deeds'"
+        },
+        {
+          "quote": "Welcome to the future, man, machine, the fusion.",
+          "source": "Black Eyed Peas, 'Boom Boom Pow'"
+        },
+        {
+          "quote": "Welcome to the danger zone.",
+          "source": "Kenny Loggins, 'Danger Zone'"
+        },
+        {
+          "quote": "Welcome to your life, there's no turning back.",
+          "source": "Tears for Fears, 'Everybody Wants to Rule the World'"
+        },
+        {
+          "quote": "Welcome to the real world, she said to me.",
+          "source": "Goo Goo Dolls, 'Slide'"
+        },
+        {
+          "quote": "Welcome to my truth.",
+          "source": "Pink, 'Welcome to My Truth'"
+        },
+        {
+          "quote": "Welcome to the inner workings of my mind.",
+          "source": "Gorillaz, 'Clint Eastwood'"
+        },
+        {
+          "quote": "Welcome to the land of forgotten souls.",
+          "source": "Slipknot, 'Vermilion'"
+        },
+        {
+          "quote": "Welcome to the planet, welcome to existence.",
+          "source": "Switchfoot, 'Dare You to Move'"
+        },
+        {
+          "quote": "Welcome to your life, it could be your fantasy.",
+          "source": "M83, 'Midnight City'"
+        },
+        {
+          "quote": "Welcome to the real world, it's a crazy place.",
+          "source": "O.A.R., 'Shattered'"
+        },
+        {
+          "quote": "Welcome to the other side.",
+          "source": "Jason Derulo, 'The Other Side'"
+        },
+        {
+          "quote": "Welcome to the future, where the mics are rocked.",
+          "source": "Outkast, 'B.O.B.'"
+        },
+        {
+          "quote": "Welcome to the rhythm of a conflict zone.",
+          "source": "Shakira, 'Dare (La La La)'"
+        },
+        {
+          "quote": "Welcome to your life, and there's no turning back.",
+          "source": "Depeche Mode, 'Enjoy the Silence'"
+        },
+        {
+          "quote": "Welcome to the land of confusion.",
+          "source": "Genesis, 'Land of Confusion'"
+        },
+        {
+          "quote": "Welcome to the party, it's a baller's soirée.",
+          "source": "Drake, 'No Stylist'"
+        },
+        {
+          "quote": "Welcome to the world of love and laughter.",
+          "source": "Elvis Presley, 'I Can't Help Falling in Love'"
+        },
+        {
+          "quote": "Welcome to the world, baby girl.",
+          "source": "Tupac, 'Letter 2 My Unborn'"
+        },
+        {
+          "quote": "Welcome to the world of the plastic beach.",
+          "source": "Gorillaz, 'Plastic Beach'"
+        },
+        {
+          "quote": "Welcome to the machine.",
+          "source": "Pink Floyd, 'Wish You Were Here'"
+        },
+        {
+          "quote": "Welcome to the home by the sea.",
+          "source": "Genesis, 'Home by the Sea'"
+        },
+        {
+          "quote": "Welcome to your life, there's no turning back.",
+          "source": "Talk Talk, 'It's My Life'"
+        },
+        {
+          "quote": "Welcome to the carnival.",
+          "source": "Natalie Merchant, 'Carnival'"
+        },
+        {
+          "quote": "Welcome to the breakdown.",
+          "source": "Bush, 'The Sound of Winter'"
+        },
+        {
+          "quote": "Welcome to the edge of your seat.",
+          "source": "Twenty One Pilots, 'Car Radio'"
+        },
+        {
+          "quote": "Welcome to the grand illusion.",
+          "source": "Styx, 'The Grand Illusion'"
+        },
+        {
+          "quote": "Welcome to the future, where it's gotta be a better place.",
+          "source": "Santana, 'Welcome'"
+        },
+        {
+          "quote": "Welcome to the world, baby girl.",
+          "source": "Tupac, 'Letter 2 My Unborn'"
+        },
+        {
+          "quote": "Welcome to the world of the plastic beach.",
+          "source": "Gorillaz, 'Plastic Beach'"
+        },
+        {
+          "quote": "Welcome to the machine.",
+          "source": "Pink Floyd, 'Wish You Were Here'"
+        },
+        {
+          "quote": "Welcome to the home by the sea.",
+          "source": "Genesis, 'Home by the Sea'"
+        },
+        {
+          "quote": "Welcome to your life, there's no turning back.",
+          "source": "Talk Talk, 'It's My Life'"
+        },
+        {
+          "quote": "Welcome to the carnival.",
+          "source": "Natalie Merchant, 'Carnival'"
+        },
+        {
+          "quote": "Welcome to my life, just another lonely night.",
+          "source": "August Alsina, 'Lonely'"
+        }
+      
+    ]
+  }
