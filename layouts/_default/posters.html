@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Poster Gallery</title>
+    <style>
+      
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+        justify-content: center;
+        padding: 0;
+      }
+      .gallery-item {
+        background: #fff;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        
+        transition:
+          transform 0.2s,
+          box-shadow 0.2s;
+      }
+      .gallery-item img {
+        width: 100%;
+        height: auto;
+        display: block;
+        /* border-bottom: 4px solid #fff; */
+      }
+      .gallery-item:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+      }
+    </style>
+    {{ partial "header.html" . }}
+  </head>
+  <body>
+    <div class="content">{{ partial "head.html" . }}
+    <h1>Poster Gallery</h1>
+    <div class="gallery">
+      {{ $posters := readDir "static/poster" }} {{ range $posters }}
+      <div class="gallery-item">
+        <!-- <img src="/poster/{{ .Name }}" alt="Poster" /> -->
+        <img src="{{ "/poster/" | absURL }}{{ .Name }}" alt="Poster">
+      </div>
+      {{ end }}
+    </div>
+    </div>
+  </body>
+</html>

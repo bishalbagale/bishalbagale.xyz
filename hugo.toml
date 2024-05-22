@@ -1,0 +1,46 @@
+baseURL = 'bishalbagale.xyz'
+languageCode = 'en-us'
+title = 'bishalbagale'
+theme="archie"
+
+
+paginate = 3 
+[params]
+  mode="toggle"
+  useCDN=false
+  mathjax = true
+  katex = true
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/bishalbagale/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/bagalebishal_/"
+
+
+  [[menu.main]]
+  name = "Posters"
+  url = "/posters"
+  weight = 1
+
+
+  [[menu.main]]
+  name = "Posts"
+  url = "/posts"
+  weight = 2
+
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+  
+  [[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
